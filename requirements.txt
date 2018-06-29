@@ -1,0 +1,10 @@
+jupyter
+pandas
+requests
+census
+us
+shapely
+geopandas
+geojson
+rtree
+scipy
