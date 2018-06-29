@@ -1,5 +1,6 @@
 # NYC 311 complaints and demographic analysis — 2010 to 2018
-This repository contains data, analytic code, and findings that support portions of the BuzzFeed News article, “They Played Dominoes Outside Their Apartment For Decades. Then The White People Moved In And Police Started Showing Up.,” published June 29, 2018. Please read that article, which contains important context and details, before proceeding.    
+This repository contains data, analytic code, and findings that support portions of the BuzzFeed News article, “[They Played Dominoes Outside Their Apartment For Decades. Then The White People Moved In And Police Started Showing Up.](https://www.buzzfeed.com/lamvo/gentrification-complaints-311-new-york?utm_term=.xamxe6jEV),” published June 29, 2018. Please read that article, which contains important context and details, before proceeding.    
+
 ## Data
 
 The data used in this analysis come from two sources: New York City’s 311 database, and the U.S. Census Bureau.    
